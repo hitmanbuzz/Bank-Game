@@ -1,0 +1,16 @@
+E:\C#\Bank_Game\Bank\bin\Debug\net5.0\Bank.exe
+E:\C#\Bank_Game\Bank\bin\Debug\net5.0\Bank.deps.json
+E:\C#\Bank_Game\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+E:\C#\Bank_Game\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+E:\C#\Bank_Game\Bank\bin\Debug\net5.0\Bank.dll
+E:\C#\Bank_Game\Bank\bin\Debug\net5.0\Bank.pdb
+E:\C#\Bank_Game\Bank\obj\Debug\net5.0\Bank.csproj.AssemblyReference.cache
+E:\C#\Bank_Game\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Bank_Game\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+E:\C#\Bank_Game\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+E:\C#\Bank_Game\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+E:\C#\Bank_Game\Bank\obj\Debug\net5.0\Bank.dll
+E:\C#\Bank_Game\Bank\obj\Debug\net5.0\refint\Bank.dll
+E:\C#\Bank_Game\Bank\obj\Debug\net5.0\Bank.pdb
+E:\C#\Bank_Game\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache
+E:\C#\Bank_Game\Bank\obj\Debug\net5.0\ref\Bank.dll
