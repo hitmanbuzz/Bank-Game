@@ -114,7 +114,7 @@ namespace BankGame
                     string read_balance = File.ReadAllText("balance_database.txt");
                     double balance_update = Convert.ToDouble(read_balance) + Convert.ToDouble(deposit_amount_input);
                     File.WriteAllText("balance_database.txt", Convert.ToString(balance_update));
-                    Console.Write("Deposit have beeen done!");
+                    Console.WriteLine("Deposit have beeen done!");
                     Console.WriteLine($"Current Balance: ${balance_update}");
                     Console.ReadLine();
 
