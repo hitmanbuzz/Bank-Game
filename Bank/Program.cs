@@ -77,7 +77,7 @@ namespace BankGame
                 string read_pass = File.ReadAllText("password_database.txt");
 
                 // Using While loop until the username and password are correct
-                while (login_input_username != read_user || login_input_username == "" && login_input_password != read_pass || login_input_password == "")
+                while (login_input_username != read_user || login_input_password != read_pass)
                 {
                     Console.WriteLine("Wrong Username and Password!");
                     Console.WriteLine();
